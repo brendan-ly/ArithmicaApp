@@ -1,5 +1,5 @@
 # ArithmicaApp
-Welcome to Arithmica! This is a simple math game designed for young students that will test your skills in addition, subtraction, multiplication, and division. 
+<p>Welcome to Arithmica! This is a simple math game designed for young students that will test your skills in addition, subtraction, multiplication, and division.</p>
 <img width="344" alt="Screenshot 2023-10-07 at 5 22 25 PM" src="https://github.com/brendan-ly/ArithmicaApp/assets/147233685/b41d54e0-af9c-4461-98d5-902b8fe694fa">
 
 <h2>Features:</h2>
