@@ -15,3 +15,6 @@
 <br>
 <p>You can retry the question until you get it correct, with an option for help.</p>
 <img width="385" alt="Screenshot 2023-10-07 at 5 27 27 PM" src="https://github.com/brendan-ly/ArithmicaApp/assets/147233685/c40a881e-47c4-47ae-94e8-3424242bdee5">
+
+<p>The app supports SwiftUI and Auto Layout, allowing the screen to adapt to different phone sizes, tablets, and device orientations.</p>
+<img width="842" alt="Screenshot 2023-10-07 at 5 30 55 PM" src="https://github.com/brendan-ly/ArithmicaApp/assets/147233685/4415c26b-8e23-41a9-a035-65d7506ed302">
